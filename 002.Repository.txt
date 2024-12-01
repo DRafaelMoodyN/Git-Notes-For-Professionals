@@ -1,0 +1,19 @@
+# Creacion de un repositorio
+
+Creara un repositorio con un archivio .git
+1) git init
+
+Ver el estado del proyecto
+2) git status
+
+Agregar todos los archivos a los cambios
+3) git add .
+
+Darle un nombre los cambios
+4) git commit -m"cambios"
+
+Antes de subir los cambios, hay que bajarlos
+5) git pull
+
+Subir los cambios al githuh
+6) git push
