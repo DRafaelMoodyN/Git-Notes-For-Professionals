@@ -7,7 +7,8 @@ Después de realizar cambios en su código fuente, debe preparar esos cambios
 con git antes de poder confirmarlos.
 ---------------------------------------------------------------------------------------
 
-git add Committing.txt
+Agregar un archivo especifico
+git add 003.Commit.txt
 
 Esto abrirar un editor de texto que suele ser vim
 1) presio i para ingresar al modo de insercion
